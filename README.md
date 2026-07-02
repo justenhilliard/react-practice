@@ -4,7 +4,7 @@ Learning React through hands-on component building.
 Each file is a small practice component built from memory after learning a new concept.
 
 ## Concepts covered
-- [ ] Components & JSX
+- [x] Components & JSX
 - [ ] Props
 - [ ] useState
 - [ ] Event handling
