@@ -11,6 +11,7 @@ function App() {
     <div>
       <h1>Justen Hilliard</h1>
       <p>Just practicing react and stuff booooom</p>
+      <p>learning different syntax</p>
 
       <button onClick={handleClick}>
         {clicked ? "you clicked it lol" : "click me"}
